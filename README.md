@@ -20,7 +20,7 @@ It provides tools for **data preprocessing, model training, and evaluation** on 
 - **Problem**: Accurate modeling of air-sea CO₂ fluxes is crucial for understanding the global carbon cycle, but traditional methods face challenges in capturing spatial and temporal variability.
 - **Approach**: This project applies various **deep learning architectures** (MLP, U-Net, U-Next and Swin Transformer) to reconstruct CO₂ fluxes.
 - **Data**: FOCI-MOPS v1 (1958–2018), downsampled to a **1°×1° global grid** with monthly resolution.
-- **Possible Targets**: `fco2`, `fco2_pre`, `co2flux`, and `co2flux_pre`.
+- **Possible Targets**: `co2flux`
 ---
 
 ## Project Structure
