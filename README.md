@@ -48,7 +48,7 @@ It provides tools for **data preprocessing, model training, and evaluation** on 
 
 ```bash
 # Clone repository
-git clone https://github.com/jakobmeggendorfer/co2-flux-reconstruction.git
+git clone https://github.com/swemoh/spatial-ocean-carbon-flux-recon.git
 cd co2-flux-reconstruction
 
 # Create environment
