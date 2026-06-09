@@ -1,6 +1,6 @@
 # A Deep Spatial Emulator for the Reconstruction of Ocean Carbon Uptake
 
-This repository contains the code for my master's thesis on **Applying deep learning architectures to estimate ocean surface carbon dioxide flux based on spatiotemporal data**.  
+This repository contains the code for the work on **A Deep Spatial Emulator for the Reconstruction of Ocean Carbon Uptake**.  
 It provides tools for **data preprocessing, model training, and evaluation** on the FOCI-MOPS v1 ocean simulation dataset.
 
 ---
