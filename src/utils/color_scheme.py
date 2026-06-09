@@ -1,0 +1,23 @@
+# Example: assign colors (hex or named)
+feature_colors = {
+    "SST": "#7f7f7f",       
+    "SAL": "#d62728",
+    "ice_frac": "#a2b9f3",            
+    "mixed_layer_depth": "#e377c2",       
+    "heat_flux_down": "#9467bd",  
+    "water_flux_up": "#8c564b",   
+    "stress_X": "#fb7528", 
+    "stress_Y": "#eeca67",            
+    "currents_X": "#3cdbae",      
+    "currents_Y": "#17becf",      
+    "lat": "#ffbb78",    
+    "nav_lat": "#ffbb78",     
+    "lon_sin": "#aec7e8", 
+    "nav_lon_sin": "#aec7e8",         
+    "lon_cos": "#1f77b4", 
+    "nav_lon_cos": "#1f77b4",            
+    "month_sin": "#2ca02c",        
+    "month_cos": "#98df8a",       
+    "year": "#7f7f7f",        
+    "global_co2": "#c5b0d5",      
+}
